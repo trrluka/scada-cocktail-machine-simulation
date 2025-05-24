@@ -17,5 +17,5 @@ A Citect SCADA 7.10 project simulating an automated cocktail production system w
 This project was developed as a solo student project.
 
 ## 📝 Documentation
-The full project report is available in **Serbian**:  
+Full project report is available in **Serbian**:  
 📁 [`SCADA cocktail project.pdf`](./SCADA%20cocktail%20project.pdf)
